@@ -10,8 +10,8 @@ public class Keisan {
 		System.out.println("y = " + y);
 		System.out.println("z = " + z);
 		
-		//int total =const  y + z;
-			//System.out.println("total = " int y + int z );
+		int total =const  y + z;
+			System.out.println("total = " int y + int z );
 		}
 
 }
