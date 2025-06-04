@@ -18,8 +18,7 @@ public class Car {
 	}
 	
 	public void displayInfo() {
-		System.out.println("メーカーは" + maker + "です。年数は" + year + "年です。");
-		
+		System.out.println("メーカーは" + maker + "です。年数は" + year + "年です。");		
 	}
 		
 	
