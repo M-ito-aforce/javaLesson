@@ -10,7 +10,11 @@ public class MultipleCatchTest {
             } finally {				
                 System.out.println("finally ブロック");				
             }				
-            System.out.println("プログラム終了");				
+            System.out.println("プログラム終了");
+            
+
+            System.out.println("Git研修");
         }
+    
 }    
 
